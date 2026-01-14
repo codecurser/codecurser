@@ -107,12 +107,12 @@ ML-powered waiting-time estimation + smart station recommendation
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codecurser&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecurser&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codecurser&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=codecurser&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecurser&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecurser&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@ ML-powered waiting-time estimation + smart station recommendation
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codecurser/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/codecurser/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
 ---
