@@ -1,21 +1,115 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Smart CNG Station Recommendation System using backend APIs and machine learning<br><br>👯 I’m looking to collaborate on<br>Smart mobility, EV/CNG infrastructure, recommendation systems, and data-driven urban planning projects<br><br>🤝 I’m looking for help with<br>Backend API optimization, real-world dataset collection, and ML model evaluation for demand & waiting time prediction<br><br>🌱 I’m currently learning<br>Backend development (REST APIs), database design, and machine learning fundamentals for prediction & recommendation systems<br><br>💬 Ask me about<br>Recommendation systems, backend APIs, machine learning basics, smart fuel station planning, and academic tech projects<br><br>⚡ Fun fact<br>A well-optimized recommendation algorithm can reduce fuel station waiting time more than adding a new station 🚗⛽
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">🚀 Aryan Sharma</h1>
+<h3 align="center">Backend & ML Engineer | Smart Mobility & Recommendation Systems</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-sharma-9a84142bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aryansharma35x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn]https://www.linkedin.com/in/aryan-sharma-9a84142bb/
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codecurser&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codecurser&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codecurser&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=codecurser&label=Profile%20Views&color=0&icon=5&pretty=true"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codecurser&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me (Vision-Driven Engineer)
+
+🔭 **Currently Building**  
+**Smart CNG Station Recommendation System**  
+→ Backend APIs + ML-based waiting-time prediction (Erlang-C inspired)
+
+👯 **Open to Collaborations**  
+Smart mobility • EV/CNG infra • Recommendation engines • Urban analytics
+
+🤝 **Looking for Help With**  
+Real-world datasets • API optimization • ML evaluation (MAE, RMSE, latency)
+
+🌱 **Currently Learning**  
+Advanced REST API design • Database optimization • ML for demand forecasting
+
+💬 **Ask Me About**  
+Recommendation systems • Backend engineering • ML fundamentals • Smart cities
+
+⚡ **Fun Fact**  
+> A smarter algorithm can reduce fuel queue time **more than building a new station** 🚗⛽
+
+---
+
+## 🧩 Featured Project
+
+### 🚗 Smart CNG Station Recommender (QuickFill)
+**Problem:** Long queues & poor station selection  
+**Solution:** Predict waiting time + recommend optimal stations  
+
+**Tech Highlights**
+- 📊 Waiting time modeling (Erlang-C inspired)
+- 🧠 ML demand prediction
+- 🔌 REST APIs (Flask / Spring Boot)
+- 🗺️ Map-based station analytics
+- 📈 Dashboard for authorities
+
+> *Designed to assist both commuters and urban planners*
+
+---
+
+## ⚙️ Tech Stack (Production-Ready)
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+### 🧠 Machine Learning & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+### 🌐 Backend & Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache)
+![Firebase](https://img.shields.io/badge/Firebase-A08021?style=for-the-badge&logo=firebase)
+
+### ⚛️ Frontend & Deployment
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codecurser&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecurser&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecurser&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ✍️ Developer Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌍 Long-Term Goal
+
+> **Build intelligent infrastructure systems that reduce real-world friction using data, algorithms, and clean backend design.**
+
+---
+
+⭐ *If you like smart systems, ML-powered products, or urban tech — let’s connect.*
