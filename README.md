@@ -191,14 +191,14 @@ An ML-powered system that estimates **waiting time** at each station and ranks t
 ### 📈 **Statistics Overview**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codecurser&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Statistics&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0D1117&border_radius=10&ring_color=38BDF8&animation=true" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codecurser&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0D1117&border_radius=10" height="180" alt="GitHub stats"/>
   <img src="https://streak-stats.demolab.com/?user=codecurser&theme=tokyonight&hide_border=true&border_radius=10&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideNums=38BDF8&dates=ffffff&sideLabels=38BDF8" height="180" alt="GitHub streak stats"/>
 </p>
 
 ### 💻 **Language Breakdown**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecurser&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=🔥%20Most%20Used%20Languages&title_color=38BDF8&bg_color=0D1117&border_radius=10&ring_color=38BDF8" height="200" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecurser&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=38BDF8&bg_color=0D1117&border_radius=10" height="200" alt="Top languages"/>
 </p>
 
 ### 📊 **Activity Graph**
@@ -210,13 +210,13 @@ An ML-powered system that estimates **waiting time** at each station and ranks t
 ### 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codecurser&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=codecurser&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7&row=1" alt="GitHub Trophies"/>
 </p>
 
-### 📝 **Contribution Stats**
+### 📝 **Additional Stats**
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=codecurser&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codecurser&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0D1117&border_radius=10&hide=issues,prs&show=reviews,discussions_started,discussions_answered" height="165" alt="Additional stats"/>
 </p>
 
 </div>
