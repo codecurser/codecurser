@@ -315,8 +315,6 @@ Transforming urban infrastructure through intelligent systems.
 
 <div align="center">
   
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
-![Powered by Vercel](https://img.shields.io/badge/Powered%20by-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **⭐ Star this repo if you find it interesting! ⭐**
 
