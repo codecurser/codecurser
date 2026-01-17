@@ -223,24 +223,6 @@ An ML-powered system that estimates **waiting time** at each station and ranks t
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  
-### 🎮 **Interactive Contribution Graph**
-
-<p align="center">
-  <!-- Snake animation - requires GitHub Action to generate in output branch -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codecurser/codecurser/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codecurser/codecurser/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/codecurser/codecurser/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation"/>
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecurser&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&title_color=38BDF8" alt="GitHub Activity Graph" width="100%"/>
-</p>
 
 ### 📅 **Contribution Calendar**
 
